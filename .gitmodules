@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ExamPAData"]
+	path = ExamPAData
+	url = https://github.com/cran/ExamPAData
 [submodule "totalcensus"]
 	path = totalcensus
 	url = https://github.com/gl-li/totalcensus
